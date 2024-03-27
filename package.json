@@ -1,0 +1,33 @@
+{
+  "name": "contentrecommendationengines",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "contentrecommendationengines.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunjiaqi123456/contentrecommendationengines"
+  },
+  "website": "https://github.com/sunjiaqi123456/contentrecommendationengines.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "sunjiaqi123456",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunjiaqi123456/contentrecommendationengines/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/sunjiaqi123456/contentrecommendationengines#readme",
+  "dependencies": {
+    "developerintroductions": "1.0.2"
+  }
+}
